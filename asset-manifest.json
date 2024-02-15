@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cveval/static/css/main.0cfaeae6.css",
+    "main.js": "/cveval/static/js/main.3699a95a.js",
+    "index.html": "/cveval/index.html",
+    "main.0cfaeae6.css.map": "/cveval/static/css/main.0cfaeae6.css.map",
+    "main.3699a95a.js.map": "/cveval/static/js/main.3699a95a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfaeae6.css",
+    "static/js/main.3699a95a.js"
+  ]
+}
